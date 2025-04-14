@@ -1,4 +1,3 @@
-Great! Here's a **sample `README.md` section** you can copy-paste or adapt to your GitHub repository homepage to represent your **RTO Agile Dashboard**.
 
 ---
 
